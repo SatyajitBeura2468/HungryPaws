@@ -9,7 +9,7 @@
 **A playful 3D cat-exploration game by Beura Labs.**
 
 <p>
-  <a href="https://hungry-paws-beura-labs-hl10pe5wd-teamsatyajitbeura.vercel.app/">
+  <a href="https://hungry-paws-teamsatyajitbeura.vercel.app/">
     <img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20HUNGRY%20PAWS-Launch%20the%20Game-FF7A59?style=for-the-badge&amp;labelColor=20203A&amp;logo=vercel&amp;logoColor=white" alt="Play Hungry Paws">
   </a>
   <a href="#-controls">
@@ -64,7 +64,7 @@ On touch devices, use the on-screen controls. The game is designed to run in a m
 
 ### The neighborhood is waiting. The mice are making poor life choices.
 
-<a href="https://hungry-paws-beura-labs-hl10pe5wd-teamsatyajitbeura.vercel.app/">
+<a href="https://hungry-paws-teamsatyajitbeura.vercel.app/">
   <img src="https://img.shields.io/badge/%F0%9F%90%BE%20ENTER%20THE%20NEIGHBORHOOD-PLAY%20NOW-FF7A59?style=for-the-badge&amp;labelColor=20203A" alt="Enter the neighborhood and play Hungry Paws">
 </a>
 
